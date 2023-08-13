@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-The major remaining uncertainty in climate prediction comes from aerosol-cloud-climate interactions in the atmosphere. Therefore, an accurate representation of aerosols and clouds is the foundation of any effort to constrain long-term climate change. Our mission is to learn (and have fun) as much as we can about aerosol particle formation and its impact on air quality and climate change. Specifically, our lab leverages expertise in Atmospheric Chemistry and Aerosol Microphysics to address two overarching scientific questions: 1) how will aerosol forcing change in future emissions scenarios as we transition to carbon neutrality, and 2) how can aerosol dynamics during convective overshoot events inform climate intervention research? 
+The major remaining uncertainty in climate prediction comes from aerosol-cloud-climate interactions in the atmosphere. Therefore, an accurate representation of aerosols and clouds is the foundation of any effort to constrain long-term climate change. Our mission is to learn (and have fun) as much as we can about aerosol particle formation and its impact on air quality and climate change. Specifically, our lab leverages expertise in Atmospheric Chemistry and Aerosol Microphysics to address two overarching scientific questions: 
+
+1. How will aerosol forcing change in future emissions scenarios as we transition to carbon neutrality?
+2. How can aerosol dynamics during convective overshoot events inform climate intervention research?
+
+Our goal is to develop a framework to incorporate (a) experimental parameterizations of chemical and microphysical processes that govern aerosol formation and evolution, and (b) a machine-learning-based dynamics model that accounts for non-steady-state meteorological conditions.
 
 
 What we value
