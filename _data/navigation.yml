@@ -2,10 +2,10 @@
 main:
 
   - title: "Research"
-    url: /Research/
+    url: /research/
 
   - title: "Team"
-    url: /Team/
+    url: /team/
 
   - title: "Publications"
     url: /publications/
@@ -17,7 +17,7 @@ main:
 #    url: /teaching/    
     
   - title: "News"
-    url: /News/
+    url: /news/
     
   - title: "Join"
-    url: /Join/
+    url: /join/
