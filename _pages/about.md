@@ -15,7 +15,7 @@ The major remaining uncertainty in climate prediction comes from aerosol-cloud-c
 
 Our goal is to develop a framework to incorporate (a) experimental parameterizations of chemical and microphysical processes that govern aerosol formation and evolution, and (b) a machine-learning-based dynamics model that accounts for non-steady-state meteorological conditions.
 
-![overview](/_pages/overview.pdf)
+![overview](/_pages/overview.png)
 
 ### What we value
 
