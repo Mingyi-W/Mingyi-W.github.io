@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mingyi Wang"
   avatar           : "my_profile.png"
-  bio              : "Assistant Professor of Geophysical Sciences at the University of Chicago"
+  bio              : "Assistant Professor of Geophysical Sciences, University of Chicago"
   location         : # "Location"
   employer         :
   pubmed           : 
   email            : "mingyiw@uchicago.edu"
-  twitter          : "replacethistwitterhandle"
+  twitter          : "_Mingyi_Wang_"
   googlescholar    : "https://scholar.google.com/citations?user=wc0cShwAAAAJ&hl=en"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
