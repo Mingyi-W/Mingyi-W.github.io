@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-The major remaining uncertainty in climate prediction comes from aerosol-cloud-climate interactions in the atmosphere. Therefore, an accurate representation of aerosols and clouds is the foundation of any effort to constrain long-term climate change. Our mission is to learn (and have fun) as much as we can about aerosol particle formation and its impact on air quality and climate change. Specifically, our lab leverages expertise in Atmospheric Chemistry and Aerosol Microphysics to address two overarching scientific questions: 
+The major remaining uncertainty in climate prediction comes from aerosol-cloud-climate interactions in the atmosphere. Therefore, an accurate representation of aerosols and clouds is the foundation of any effort to constrain long-term climate change. Our mission is to learn (and have fun) as much as we can about aerosol formation and its impact on air quality and climate change. Specifically, we aim to address two overarching scientific questions: 
 
-* How will aerosol forcing change in future emissions scenarios as we transition to carbon neutrality?
+* How will aerosol forcing change in future emission scenarios as we transition to carbon neutrality?
 * How can aerosol dynamics during convective overshoot events inform climate intervention research?
 
-Our goal is to develop a framework to incorporate (a) experimental parameterizations of the chemical and microphysical processes that govern aerosol formation, and (b) a machine learning-based dynamical model that accounts for non-steady-state ambient conditions.
+We will achieve this by leveraging interdisciplinary expertise in Atmospheric Chemistry and Aerosol Microphysics, via a collaborative approach that combines lab experiments, box modeling, machine learning, and any approach you are interested in!
+
 
 <!---
 <p align="center">
-  <img src="/_pages/overview.png" alt="overview" width="800"/>
+  <img src="/images/research/overview.png" alt="overview" width="800"/>
 </p>
 -->
 
