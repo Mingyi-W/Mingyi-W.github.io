@@ -10,8 +10,8 @@ redirect_from:
 
 The major remaining uncertainty in climate prediction comes from aerosol-cloud-climate interactions in the atmosphere. Therefore, an accurate representation of aerosols and clouds is the foundation of any effort to constrain long-term climate change. Our mission is to learn (and have fun) as much as we can about aerosol particle formation and its impact on air quality and climate change. Specifically, we aim to address two overarching scientific questions: 
 
-* How will aerosol forcing change in future emission scenarios as we transition to carbon neutrality?
-* How can aerosol dynamics during convective overshoot events inform climate intervention research?
+* How will aerosol forcing change with future emissions as we transition to clean energy?
+* How can aerosol dynamics in convective overshoots inform climate intervention research?
 
 We will achieve this by leveraging interdisciplinary expertise in Atmospheric Chemistry and Aerosol Microphysics, via a collaborative approach that combines lab experiments, box modeling, machine learning, and any approach you are interested in!
 
