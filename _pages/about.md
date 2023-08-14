@@ -22,7 +22,8 @@ Our goal is to develop a framework to incorporate (a) experimental parameterizat
 -->
 
 
-### What we value
+## How to join us
+If you’re interested in our lab’s research, feel free to reach out and send us an email via [mingyiw@uchicago.edu](mailto:mingyiw@uchicago.edu). We’re looking forward to hearing from you!
 
 
 
