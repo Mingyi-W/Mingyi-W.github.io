@@ -16,7 +16,7 @@ The major remaining uncertainty in climate prediction comes from aerosol-cloud-c
 We will achieve this by leveraging interdisciplinary expertise in Atmospheric Chemistry and Aerosol Microphysics, via a collaborative approach that combines lab experiments, box modeling, machine learning, and any approach you are interested in!
 
 
-## How to join us
+### How to join us
 If you’re interested in our lab’s research, feel free to reach out and send us an email via [mingyiw@uchicago.edu](mailto:mingyiw@uchicago.edu). We’re looking forward to hearing from you!
 
 
