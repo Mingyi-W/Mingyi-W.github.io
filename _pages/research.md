@@ -10,4 +10,8 @@ Climate change is the defining issue facing our generation and generations to co
 This uncertainty in the aerosol forcing is rooted in the unknown baseline aerosol state of the preindustrial atmosphere, and the poorly understood mechanisms driving the anthropogenic increase in aerosols and clouds to date. Our research aims to address this uncertainty and provide novel approaches to (a) constrain the oxidative chemistry of emerging pollutants for particle nucleation, (b) resolve microphysical processes in particle growth and survival, and (c) develop a particle dynamics model with experimental and meteorological inputs for real-world deployment.
 
 
+<p align="center">
+  <img src="/images/research/overview.png" alt="overview" width="800"/>
+</p>
+
 
