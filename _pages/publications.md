@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[35] Nie, W.; Yan, C.; Yang, L.; Roldin, P.; Liu, Y.; Vogel, A. L.; ... **Wang, M.**; ... Ding, A. (2023). NO at low concentration can enhance the formation of highly oxygenated biogenic molecules in the atmosphere. <u>*Nature Communications*</u>, 14, 3347. [[DOI](https://doi.org/10.1038/s41467-023-39066-4)]
+[35] Nie, W.; Yan, C.; Yang, L.; Roldin, P.; Liu, Y.; Vogel, A. L.; ... **Wang, M.**; ... Ding, A. (2023). NO at low concentration can enhance the formation of highly oxygenated biogenic molecules in the atmosphere. *<u>Nature Communications</u>*, 14, 3347. [[DOI](https://doi.org/10.1038/s41467-023-39066-4)]
 
 [34] Surdu, M.; Lamkaddam, H.; Wang, D. S.; Bell, D. M.; Xiao, M.; ... **Wang, M.**; ... El Haddad, I. (2023). Molecular understanding of the enhancement in organic aerosol mass at high relative humidity. *Environ. Sci. Technol.*, 57, 2297–2309. [[DOI](https://doi.org/10.1021/acs.est.2c04587)]
 
