@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "What we do"
-excerpt: "About me"
+title: "About our lab"
+excerpt: "About our lab"
 author_profile: true
 redirect_from: 
   - /about/
