@@ -7,7 +7,7 @@ author_profile: true
 
 ### Principal Investigator
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/bio-photo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mingyi Wang</div><img src='images/my_profile.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [aa]()
@@ -20,7 +20,7 @@ author_profile: true
 
 ### Postdoctoral Researcher
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/bio-photo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">You</div><img src='images/site-logo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [aa]()
@@ -32,7 +32,7 @@ author_profile: true
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">aa</div><img src='images/bio-photo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">You</div><img src='images/site-logo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [aa]()
