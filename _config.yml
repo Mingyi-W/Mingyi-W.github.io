@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mingyi Wang's Lab at UChicago"
+title                    : "Wang Aerosol Lab UChicago"
 title_separator          : "-"
 name                     : &name "Mingyi Wang"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Mingyi Wang"
   avatar           : "my_profile.png"
-  bio              : "Assistant Professor of Geophysical Sciences, University of Chicago"
-  location         : # "Location"
+  bio              : "Assistant Professor of Geophysical Sciences"
+  location         : "The University of Chicago"
   employer         :
   pubmed           : 
   email            : "mingyiw@uchicago.edu"
