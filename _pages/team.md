@@ -7,8 +7,8 @@ author_profile: true
 
 ### Principal Investigator
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mingyi Wang</div><img src='images/my_profile.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Mingyi Wang</div><img src="/images/my_profile.png" alt="my" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
 
 [aa]()
 
@@ -20,8 +20,8 @@ author_profile: true
 
 ### Postdoctoral Researcher
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">You</div><img src='images/site-logo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">You</div><img src="/images/500x300.png" alt="you" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
 
 [aa]()
 
@@ -32,8 +32,10 @@ author_profile: true
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">You</div><img src='images/site-logo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+### Graduate Student
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">You</div><img src="/images/500x300.png" alt="you" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
 
 [aa]()
 
