@@ -8,6 +8,7 @@ author_profile: true
 ### Principal Investigator
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [aa]()
 
@@ -19,7 +20,7 @@ author_profile: true
 
 ### Postdoctoral Researcher
 
-<div class='paper-box'><div class='paper-box-image'><div><div class=""></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [aa]()
