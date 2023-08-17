@@ -17,7 +17,7 @@ We will achieve this by leveraging interdisciplinary expertise in Atmospheric Ch
 
 
 ### How to join us
-If you’re interested in our lab’s research, feel free to email me at [mingyiw@uchicago.edu](mailto:mingyiw@uchicago.edu). Prospective students should also apply to the Department of the [Geophysical Sciences](https://geosci.uchicago.edu/prospective_students/) at the University of Chicago. We look forward to hearing from you!
+If you’re interested in our lab’s research, feel free to email Mingyi at [mingyiw@uchicago.edu](mailto:mingyiw@uchicago.edu). Prospective students should also apply to the Department of the [Geophysical Sciences](https://geosci.uchicago.edu/prospective_students/) at the University of Chicago. We look forward to hearing from you!
 
 
 
