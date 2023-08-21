@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wang Aerosol Lab UChicago"
+title                    : "WANG AEROSOL LAB"
 title_separator          : "-"
 name                     : &name "Mingyi Wang"
 description              : &description "personal description"
