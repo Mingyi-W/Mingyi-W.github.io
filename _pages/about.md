@@ -16,7 +16,7 @@ The major remaining uncertainty in climate prediction comes from aerosol-cloud-c
 We will achieve this by leveraging interdisciplinary expertise in Atmospheric Chemistry and Aerosol Microphysics, via a collaborative approach that combines lab experiments, box modeling, machine learning, and any approach you are interested in!
 
 <p align="center">
-  <img src="/images/research/overview.png" alt="overview" width="850"/>
+  <img src="/images/research/overview.png" alt="overview" width="800"/>
 </p>
 
 ### How to join us
