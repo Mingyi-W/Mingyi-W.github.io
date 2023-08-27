@@ -12,7 +12,7 @@ The major remaining uncertainty in climate prediction comes from aerosol-cloud-c
 
 (1) Compositionally, how do aerosols nucleate, grow, and transform in diverse environments?  
 (2) Spatially, how can aerosol dynamics in convection inform climate intervention research?  
-(3) Temporally, how will aerosol forcing change with future emissions in clean energy scenarios?  
+(3) Temporally, how will aerosol forcing change with future emissions in net-zero scenarios?  
 
 We will achieve this by leveraging interdisciplinary expertise in Atmospheric Chemistry and Aerosol Microphysics, via a collaborative approach that combines lab experiments, box modeling, machine learning, and any approach you are interested in!
 
